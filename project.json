@@ -1,8 +1,8 @@
 {
   "name": "PoolStream",
   "about": "проект PoolStream, режим Duty",
-  "version": "4.1",
-  "notes": "исправление ошибок",
+  "version": "4.4",
+  "notes": "при нажатии или удержании кнопок -/+, скорость уменьшается/увеличивается на 5%",
   "builds": [
     {
       "chipFamily": "ESP32",
